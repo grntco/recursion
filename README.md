@@ -1,2 +1,2 @@
-# recursion
-Some practice using recursion for The Odin Project
+# Recursion
+Some practice using recursion for The Odin Project.
